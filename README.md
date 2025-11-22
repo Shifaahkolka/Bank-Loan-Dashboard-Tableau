@@ -1,8 +1,8 @@
 # Bank-Loan-Dashboard-Tableau
-[5:56 PM, 11/21/2025] Shifahkolka💫: This project showcases an interactive Bank Loan Dashboard designed using Tableau.
+This project showcases an interactive Bank Loan Dashboard designed using Tableau.
 The dashboard visually analyzes loan distribution, borrower categories, maturity trends, and profitability.
 It helps banks or financial analysts understand loan performance across different states, religions, grades, and product categories.
-[5:57 PM, 11/21/2025] Shifahkolka💫: Key Features of the Dashboard
+ Key Features of the Dashboard
 
 1️⃣ State-wise Loan Distribution
 	•	Shows loan amount across Indian states
